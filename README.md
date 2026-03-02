@@ -1,2 +1,2 @@
-# PyTorch-ile-Derin-Ogrenme-Algoritmalari-
-BTK Akademi bünyesinde almış olduğum PyTorch ile Derin Öğrenme Algoritmaları kapsamında, PyTorch kütüphanesini kullanarak geliştirilen ANN, CNN, RNN gibi temel ve ileri seviye derin öğrenme mimarilerinin uygulama projelerini içermektedir.
+# PyTorch_Deep_Learning_Algorithms
+My course, "Deep Learning Algorithms with PyTorch," taken within the BTK Academy, includes application projects for basic and advanced deep learning architectures such as ANN, CNN, and RNN, developed using the PyTorch library.
