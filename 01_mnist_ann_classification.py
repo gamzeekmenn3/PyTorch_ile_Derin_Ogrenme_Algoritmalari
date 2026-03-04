@@ -1,5 +1,5 @@
 """
-MNIST Hand-Written Digit Classification with PyTorch:
+PyTorch ile MNIST El Yazısı Rakam Sınıflandırması:
 Bu proje, PyTorch kütüphanesi kullanılarak MNIST veri setindeki el yazısı rakamları sınıflandırmak için bir Yapay Sinir Ağı (ANN) mimarisi içerir.
 """
 # %% [1] Kütüphanelerin Yüklenmesi
